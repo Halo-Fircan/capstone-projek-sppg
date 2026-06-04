@@ -2,6 +2,14 @@
 
 Dashboard interaktif untuk analisis distribusi **Satuan Pelayanan Pemenuhan Gizi (SPPG)** dan peserta didik per kabupaten/kota di Indonesia, dalam rangka Program **Makan Bergizi Gratis (MBG)** Badan Gizi Nasional.
 
+# Akses Dashboard Online
+
+Dashboard hasil analisis dapat diakses secara publik melalui Streamlit Cloud pada tautan berikut:
+
+🔗 **https://sppg-analytics-capstone.streamlit.app/**
+
+Dashboard ini menyajikan visualisasi interaktif, analisis kebutuhan SPPG, identifikasi wilayah prioritas, serta eksplorasi data peserta didik dan persebaran SPPG di seluruh Indonesia.
+
 ---
 
 ## Fitur Dashboard
