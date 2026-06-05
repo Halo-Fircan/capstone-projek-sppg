@@ -1,0 +1,19 @@
+# Dependensi utama Node.js
+node_modules/
+
+# File konfigurasi rahasia lokal
+.env
+
+# File logs sampah otomatis saat debugging
+*.log
+npm-debug.log*
+
+# File arsip backup lokal
+sppg.zip
+
+# File sampah sistem operasi
+.DS_Store
+Thumbs.db
+
+# Folder output upload
+public
